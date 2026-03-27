@@ -1,2 +1,0 @@
-# Bot
-main.py
